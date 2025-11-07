@@ -2,6 +2,12 @@
 
 A stunning, modern web application that transforms your thoughts into beautiful words using AI. Built with Next.js, TypeScript, and Tailwind CSS with Apple-inspired glassmorphic design.
 
+## 🌐 Live Demo
+
+**Try WordWeaver now:** [https://word-weaver-ai.vercel.app/](https://word-weaver-ai.vercel.app/)
+
+> Transform your thoughts into beautiful words with AI-powered creativity!
+
 ## ✨ Features
 
 - 🎭 **AI-Powered Content Generation** - Connects to Hugging Face model "NimalanNatarajan/poetry-generator"
